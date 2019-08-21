@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "jagga",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "name": "john",
+      "companyId": "1"
+    },
+    {
+      "id": "3",
+      "name": "mark",
+      "companyId": "2"
+    },
+    {
+      "id": "4",
+      "name": "stark",
+      "companyId": "4"
+    },
+    {
+      "id": "QGzFfIT"
+    },
+    {
+      "id": "5",
+      "name": "park",
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple"
+    },
+    {
+      "id": "2",
+      "name": "MS"
+    },
+    {
+      "id": "3",
+      "name": "info"
+    },
+    {
+      "id": "4",
+      "name": "grape"
+    }
+  ]
+}
