@@ -9,6 +9,6 @@
   "author": "jagga",
   "license": "MIT",
   "dependencies": {
-    "json-server": "^0.15.0"
+    "json-server": "^0.17.1"
   }
 }
